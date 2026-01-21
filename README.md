@@ -10,21 +10,6 @@ após fazer a identificação da planta, o usuario pode visualizar as plantas id
 ### pré requisitos:
 -python 3.8 ou superior
 -IDE
-### estrutura do projeto
-POO_trabalho_final/
-│
-├── main_menu.py
-├── src/
-│ └── grupos/
-│ ├── sem_flores/
-│ │ ├── briofitas.py
-│ │ └── pteridofitas.py
-│ └── com_flores/
-│ ├── gimnospermas.py
-│ └── angiospermas/
-│ ├── angiospermas_base.py
-│ ├── dicotiledoneas.py
-│ └── monoticoledonia.py
 
 ### execução:
 -Clone este repositório ou baixe os arquivos.
@@ -36,8 +21,6 @@ As plantas identificadas ficam registradas enquanto o programa estiver em execu�
 ### observações
 os dados não são guardados após a execução do programa
 as respostas devem seguir o formato solicitado
-
-
 
 ## evidências de resultados obtidos
 ### entrada do usuário:
